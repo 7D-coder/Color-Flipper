@@ -1,0 +1,32 @@
+h1
+{
+    text-align: center;
+    color: chartreuse;
+
+}
+#btn
+{
+    text-align: center;
+    background-color: brown;
+   border-radius: 20%;
+   font-size: 30px;
+   
+
+}
+.main
+{
+    margin: 10% 40% 20% 33% ;
+
+}
+h2
+{
+    color: rgb(231, 237, 240);
+    background-color: black ;
+    font-size: 27px;
+    
+
+}
+.clr
+{
+    color: rgb(105, 105, 247);
+}
